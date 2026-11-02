@@ -58,7 +58,7 @@ header > p {
     max-width: 500px; /* ao colocar a altura como 500, vc está dizendo q virou um bloco. logo, text-align não funciona, apenas margin: auto. */
     color: white;
     margin: auto;
-    margin-bottom: 20px;
+    padding-bottom: 40px;
     text-shadow: 2px 2px 0 rgba(0, 0, 0, 0.2);
 }
 
